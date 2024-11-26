@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0134219a.css",
+    "main.js": "/static/js/main.823eca4b.js",
+    "static/media/img8.png": "/static/media/img8.51b2502e5944cc69bc8e.png",
+    "static/media/img9.png": "/static/media/img9.46a1c0d9fc47861b6f20.png",
+    "static/media/img4.jpg": "/static/media/img4.9ef2683e64be0014e83a.jpg",
+    "static/media/img1.jpg": "/static/media/img1.dc853a1c513c07333685.jpg",
+    "static/media/img3.jpg": "/static/media/img3.c0ec857f8c92af76847a.jpg",
+    "static/media/stack2.png": "/static/media/stack2.757f55cdf9de23c50b9a.png",
+    "static/media/img7.png": "/static/media/img7.be541c0f1978b6444185.png",
+    "static/media/MADE Sunflower PERSONAL USE.otf": "/static/media/MADE Sunflower PERSONAL USE.27f60d47e858f4c1e091.otf",
+    "static/media/img2.jpg": "/static/media/img2.09baed67fa457ed9dd13.jpg",
+    "static/media/img6.png": "/static/media/img6.0b32af5ff48b7e8d37b5.png",
+    "static/media/Miracle Personal use.otf": "/static/media/Miracle Personal use.c05768628e0e9ae5341d.otf",
+    "static/media/img5.jpg": "/static/media/img5.f6d7123cfe159506f629.jpg",
+    "static/media/mark.jpg": "/static/media/mark.ad94786bf1eb9307de26.jpg",
+    "index.html": "/index.html",
+    "main.0134219a.css.map": "/static/css/main.0134219a.css.map",
+    "main.823eca4b.js.map": "/static/js/main.823eca4b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0134219a.css",
+    "static/js/main.823eca4b.js"
+  ]
+}
